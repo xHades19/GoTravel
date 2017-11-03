@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\243b8fc91c1c992d29065486f818fe191ffe7cb0\output\jars\libs\androidsvg-1.2.1.jar"
+        revision="25.0.2"
+        sha1="d0cb3453e18fffeb053e9b7f052af3dcec9f75b4">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\androidsvg-1.2.1-17bb2480793621afa6b42923327f605ed81d1a83.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\06ce18abfbb6713d2cf61e7975424961bd564103\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ea5d2fedd05ca5794db36a633b81ef88ce1ee01d.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\86f866051209a63fa70b8cdcaa57f972e88dcae0\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8d448ab402f88f060539b4fd938fddc06dc37f0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\95993e29c83c79899fd0b395ec680557c686e7df\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a9d20a4cafc6a5ab75527f71f949c76952e99c73.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\f0f6d028dbf5b7cae5ed721a451f6a8a5f18df51\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-fa533391f996798dba4861d871577a6f1d08d08c.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.9.0-ff6e7c36325a2c9140f33c2ceba3c606c9fb2f91.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\bb4435fb83a11faf1aa56d9daff466886ba2f55d\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6f7bfee18ad77049ccd03b232ee4f16135af2eaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\picasso-2.5.2-075460825a57d5b01346421896993b1ef0554bdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\16e25190e6a77de205d4b3c954a0b45dfda38951\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8a38e569b997c26368e3432bd82f221fd95d5d87.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-b63c8b76f3f64f4aceaecf79d0919ca06d4ab1b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\facc204f270a936042bcce36909972e30aa45406\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d1989af8d9207aba0f53742b6eadf3fc05f47f39.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\88cf4fb91d0db45af63a91b690bb684ce52df36e\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-abfad9d01bdebae7663ff9b23ff74bf8e8988a82.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\efa14c59498437d294506a27a4cb1915acd2bbcc\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-849b62dc2869664f48aa2c867de82a0bd23724ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\5d766c12f51a5f88b30a6a204f033993c23b41ee\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-610a3b8d069e16d4218bb16048a560b965b93c19.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\27cbabeab3c53330ba0c6d22fd5fa2d522705aef\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e753f406e2884b0a1fcd1e111e3d930f348dfbfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-3.4.1-616e885ff04dceadd3a839df70558f4548cefc25.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\c0a7c1ad37f578d9266fb11c04c30790cd679cb2\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-30bd9c909b0a1cee03fb7932110b3954f1bc4920.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\7b43b25fb4999f345d048909a464f58da20c31ce\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a59e48dfff6f3e1a05bdf3ee9b36ef4d060737f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\2f7b93398b9fe3b801a6871dca144fce2c3a7bcd\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-76870727e6110301c3ce55b615e4a58111948ac5.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\b71c469e8982856d665bfdb0fcb411d3a4436777\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-aa4a12b8e1075f557b2441e88f5f4313d90b1098.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\c750748f21666729870763a0d747e68c4e2e0d70\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1d4509724bd51ab6764463205a8cbe5afd3d652a.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\648aad1c3f1dea8090c4106ec4fc568eae164aa4\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-33ea6b12ee815f9166235e321c0c5f8fb7b4b411.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\243b8fc91c1c992d29065486f818fe191ffe7cb0\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="88c68c6a96cb202c8974833c319dc4a340f29b7e">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6ec551053829693383d4d404cca78ab845b8a5dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\d919d542f67cb52bf8bed787afc3569bf184fe9d\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f04ef652fa66f1429016235e28127aa02620a05b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\dd3dc932dd568d958a1355306280c56cde96b96b\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4c0d515e5003b60411b79c8b63d0e617f37e798b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\84e18f3119ea42cc59fc220f2d2e7a5cd91a8e52\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7e3bf04e258006797abdaeb29b6e7b66b387bd2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\59054ce9ba8770aed3084298304078e84acd0135\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="e3f2bd7d626b065e0960be2404e0af133e7b179b">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1ad129106f0a476a418a7a33d9d7247b0e4e4c3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\.android\build-cache\4c0cd66241cf9102199b9b557eb58a639dc4a719\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f91e0428e973b2ece57a56f0630a335479e7deca.jar" />
+    </item>
+    <item
+        jar="C:\Users\PhuongBee\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\PhuongBee\Desktop\GoTravel\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-90e8633040fe5b09f483cecdae9be24c153d7853.jar" />
+    </item>
+
+</items>
